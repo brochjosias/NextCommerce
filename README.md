@@ -29,9 +29,7 @@ _Tailwind_
 _Clerk_
 _Vercel Postgres_
 
-## Faça o download do repositório
-
-### Acesse o diretório do projeto e em seu ambiente de desenvolvimento
+## Faça o download do repositório e em seu ambiente de desenvolvimento:
 
 ```bash
 cd next-commerce
