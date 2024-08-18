@@ -33,9 +33,7 @@ _Vercel Postgres_
 
 **Faça o download do repositório**
 
-### Em seu ambiente de desenvolvimento
-
-Acesse o diretório do projeto
+### Acesse o diretório do projeto e em seu ambiente de desenvolvimento
 
 ```bash
 cd next-commerce
