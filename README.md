@@ -29,8 +29,6 @@ _Tailwind_
 _Clerk_
 _Vercel Postgres_
 
-## Configuração do Ambiente de Desenvolvimento
-
 **Faça o download do repositório**
 
 ### Acesse o diretório do projeto e em seu ambiente de desenvolvimento
