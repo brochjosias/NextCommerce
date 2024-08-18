@@ -20,14 +20,14 @@ Gerenciamento de Pedido: Acompanhe o status do seu pedido.
 
 ## Tecnologias Utilizadas
 
-_Next.js_
-_TypeScript_
-_HTML_
-_CSS_
-_Prisma_
-_Tailwind_
-_Clerk_
-_Vercel Postgres_
+- Next.js
+- TypeScript
+- HTML
+- CSS
+- Prisma
+- Tailwind
+- Clerk
+- Vercel Postgres
 
 ## Faça o download do repositório e em seu ambiente de desenvolvimento:
 
